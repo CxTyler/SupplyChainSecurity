@@ -1,2 +1,19 @@
 # SupplyChainSecurity
-Malicious Packages and Users are infiltrating software around the globe. Examples of Account Takeover, Dependency Confusion, Hacktivism and Chain/Repo-Jacking are being used to infect your software. 
+Malicious Packages and Users are infiltrating software around the globe. Examples of Account Takeover, Dependency Confusion, Hacktivism and Chain/Repo-Jacking are being used to infect your software. This repository highlights some of the key Supply Chain flaws that Checkmarx can help you uncover before it's too late.
+
+
+## Account Take Over (Good Packages Gone Bad)
+* ua-parser-js_0.7.29.zip (Account takeover with malicious intent)
+* ua-parser-js_0.7.28.zip (Safe and respectable version)
+
+## Dependency Confusion  
+* azure-powerbiembedded_6969.99.99
+
+## TypoSqutting 
+* Moment vs. Momnet
+
+## Hacktisim/Protetsware 
+* node-ipc_9.2.2
+* "Don't trust code from strangers" or more importantly, should you trust contributers who have a questioanble past?
+RIAEvangelist was responsible for a Hacktivism act against the Russian/Ukraine War introducing a "Peacenotwar" package in NPM - node-ipc_9.2.2. They also maintain 40+ other Open Source projects like event-pubsub
+
