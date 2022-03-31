@@ -12,7 +12,7 @@
 * https://checkmarx.com/blog/a-new-type-of-supply-chain-attack-could-put-popular-admin-tools-at-risk/
 
 ## TypoSqutting 
-* Moment vs. Momnet
+* Moment (https://www.npmjs.com/package/moment) vs. Momnet (https://www.npmjs.com/package/momnet)
 * https://checkmarx.com/blog/recently-discovered-supply-chain-worm/
 
 ## ChainJacking (Go / Swift)
