@@ -9,7 +9,11 @@
     "lodash": "4.17.11",
     "node-ipc": "9.2.2",
     "ua-parser-js": "0.7.28",
-    "ua-parser-js": "0.7.29"
+    "ua-parser-js": "0.7.29",
+    "event-pubsub": "5.0.3",
+    "momnet": "2.29.1",
+    "flow-dev-tools": "99.10.9",
+    "scs": "0.0.1"
   },
   "scripts": {},
   "devDependencies": {
