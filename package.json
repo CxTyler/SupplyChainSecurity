@@ -4,6 +4,11 @@
   "version": "1.0.0",
   "description": "SCS Examples to be cautious of... and protected by Checkmarx for...",
   "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "handlebars": "4.7.9",
     "lodash": "4.17.11",
@@ -13,6 +18,29 @@
     "momnet": "2.29.1",
     "flow-dev-tools": "99.10.9",
     "scs": "0.0.1"
+    "wagyu-cli": "2.0.2",
+    "3a-look": "1.0.1",
+    "3a-spawn": "1.0.1",
+    "claim-coin-master-spins-generator-always_online_teka_nai_re": "1.0.0",
+    "dc-icons": "latest",
+    "glucotrust-amazon": "latest",
+    "arriva-ui-lib": "latest",
+    "angular-nanoscroller": "latest",
+    "package_name233as": "latest",
+    "prozct": "latest",
+    "otc-trading-desk": "latest",
+    "typeahead-client-logger": "latest",
+    "785084_the_whale": "latest",
+    "dertyuio": "latest",
+    "npm-rub3n": "latest",
+    "us_the_whale_strem": "latest",
+    "hd_the_whale": "latest",
+    "677179_creed_iii": "latest",
+    "tester123mov": "latest",
+    "open-p2p": "latest",
+    "payments-js": "latest",
+    "tv-p2p": "latest",
+    "evm-script-decoder": "latest"
   },
   "scripts": {},
   "devDependencies": {
